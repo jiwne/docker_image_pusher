@@ -1,5 +1,1 @@
-nginx
-redis
-mysql
 nacos
-kafka
